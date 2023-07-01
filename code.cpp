@@ -172,6 +172,7 @@ public:
 					printOnePage(prevPagePrinted);
 					prevPagePrinted++;
 					//sleep_for(nanoseconds(1000));
+					
 					//sleep_until(system_clock::now() + seconds(100000));
 				}
 			}
